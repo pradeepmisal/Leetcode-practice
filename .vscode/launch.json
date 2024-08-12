@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Arraylist",
+      "request": "launch",
+      "mainClass": "Arraylist",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
+      "name": "ArrayList$InnerArrayList",
+      "request": "launch",
+      "mainClass": "ArrayList$InnerArrayList",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
       "name": "backtracking",
       "request": "launch",
       "mainClass": "backtracking",

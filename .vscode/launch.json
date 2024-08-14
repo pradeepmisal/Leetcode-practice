@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
+      "name": "MultiAl",
+      "request": "launch",
+      "mainClass": "MultiAl",
+      "projectName": "java-code-practice_672edbd9"
+    },
+    {
+      "type": "java",
       "name": "Arraylist",
       "request": "launch",
       "mainClass": "Arraylist",

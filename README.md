@@ -22,3 +22,19 @@ To get started with this repository, you can clone it to your local machine usin
 
 ```bash
 git clone https://github.com/pradeepmisal/java-code-practice.git
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+<!---LeetCode Topics End-->

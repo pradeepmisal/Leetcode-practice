@@ -45,12 +45,15 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->

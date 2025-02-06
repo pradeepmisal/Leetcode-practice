@@ -30,6 +30,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
+| [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pradeepmisal/java-code-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/pradeepmisal/java-code-practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pradeepmisal/java-code-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -71,6 +72,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
@@ -79,5 +81,6 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->

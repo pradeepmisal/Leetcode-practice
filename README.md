@@ -31,6 +31,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0045-jump-game-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pradeepmisal/java-code-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -108,4 +109,12 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/pradeepmisal/java-code-practice/tree/master/2434-design-a-number-container-system) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
@@ -40,11 +41,13 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Depth-First Search

@@ -81,6 +81,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -89,6 +90,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
@@ -128,4 +130,8 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

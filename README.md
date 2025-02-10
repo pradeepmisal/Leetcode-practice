@@ -57,6 +57,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradeepmisal/java-code-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 ## Breadth-First Search
@@ -145,11 +146,13 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradeepmisal/java-code-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradeepmisal/java-code-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,4 +161,5 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->

@@ -96,6 +96,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Counting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Design
 |  |
@@ -142,6 +144,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradeepmisal/java-code-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Tree
 |  |
 | ------- |

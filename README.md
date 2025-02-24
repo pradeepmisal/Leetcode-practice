@@ -40,6 +40,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1927-maximum-ascending-subarray-sum](https://github.com/pradeepmisal/java-code-practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pradeepmisal/java-code-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3429-special-array-i) |
@@ -66,11 +67,13 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0099-recover-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0099-recover-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
@@ -82,6 +85,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Matrix
 |  |
@@ -174,6 +178,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0099-recover-binary-search-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |

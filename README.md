@@ -42,6 +42,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pradeepmisal/java-code-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/pradeepmisal/java-code-practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -135,6 +136,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Design
@@ -220,6 +222,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String Matching
 |  |
 | ------- |

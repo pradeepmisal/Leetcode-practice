@@ -172,6 +172,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [1031-add-to-array-form-of-integer](https://github.com/pradeepmisal/java-code-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pradeepmisal/java-code-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2649-count-total-number-of-colored-cells](https://github.com/pradeepmisal/java-code-practice/tree/master/2649-count-total-number-of-colored-cells) |
 ## Randomized
 |  |
 | ------- |

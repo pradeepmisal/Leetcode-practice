@@ -50,6 +50,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pradeepmisal/java-code-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3483-alternating-groups-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,6 +187,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3483-alternating-groups-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3483-alternating-groups-ii) |
 ## Stack
 |  |
 | ------- |

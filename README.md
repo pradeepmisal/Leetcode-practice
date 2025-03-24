@@ -50,6 +50,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pradeepmisal/java-code-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/pradeepmisal/java-code-practice/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3643-zero-array-transformation-ii) |
@@ -171,6 +172,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/pradeepmisal/java-code-practice/tree/master/3430-count-days-without-meetings) |
 ## Counting Sort
 |  |
 | ------- |

@@ -124,6 +124,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/pradeepmisal/java-code-practice/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pradeepmisal/java-code-practice/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0812-rotate-string) |
@@ -239,11 +240,13 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pradeepmisal/java-code-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Number Theory

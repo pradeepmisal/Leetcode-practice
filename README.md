@@ -54,6 +54,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3643-zero-array-transformation-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pradeepmisal/java-code-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pradeepmisal/java-code-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## Dynamic Programming
@@ -197,6 +198,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2610-closest-prime-numbers-in-range](https://github.com/pradeepmisal/java-code-practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pradeepmisal/java-code-practice/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pradeepmisal/java-code-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3817-maximum-containers-on-a-ship](https://github.com/pradeepmisal/java-code-practice/tree/master/3817-maximum-containers-on-a-ship) |
 ## Randomized
 |  |
@@ -269,4 +271,8 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3643-zero-array-transformation-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pradeepmisal/java-code-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pradeepmisal/java-code-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 <!---LeetCode Topics End-->

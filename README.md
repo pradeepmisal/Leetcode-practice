@@ -54,6 +54,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3643-zero-array-transformation-ii) |
+| [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,18 +88,21 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## Graph
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -119,6 +124,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## String
 |  |
 | ------- |

@@ -274,5 +274,6 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Bit Manipulation
 |  |
 | ------- |
+| [3394-minimum-array-end](https://github.com/pradeepmisal/java-code-practice/tree/master/3394-minimum-array-end) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pradeepmisal/java-code-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 <!---LeetCode Topics End-->

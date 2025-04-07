@@ -28,6 +28,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/pradeepmisal/java-code-practice/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -242,6 +243,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/pradeepmisal/java-code-practice/tree/master/0035-search-insert-position) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0099-recover-binary-search-tree) |

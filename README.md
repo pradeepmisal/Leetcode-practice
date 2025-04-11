@@ -40,6 +40,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1755-defuse-the-bomb](https://github.com/pradeepmisal/java-code-practice/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pradeepmisal/java-code-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/pradeepmisal/java-code-practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2107-find-unique-binary-string) |
@@ -213,6 +214,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1755-defuse-the-bomb](https://github.com/pradeepmisal/java-code-practice/tree/master/1755-defuse-the-bomb) |
 | [3483-alternating-groups-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3483-alternating-groups-ii) |
 ## Stack
 |  |

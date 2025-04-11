@@ -200,6 +200,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pradeepmisal/java-code-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/pradeepmisal/java-code-practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pradeepmisal/java-code-practice/tree/master/2649-count-total-number-of-colored-cells) |
+| [2998-count-symmetric-integers](https://github.com/pradeepmisal/java-code-practice/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pradeepmisal/java-code-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3817-maximum-containers-on-a-ship](https://github.com/pradeepmisal/java-code-practice/tree/master/3817-maximum-containers-on-a-ship) |
@@ -280,4 +281,8 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [3394-minimum-array-end](https://github.com/pradeepmisal/java-code-practice/tree/master/3394-minimum-array-end) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pradeepmisal/java-code-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/pradeepmisal/java-code-practice/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->

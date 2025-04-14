@@ -301,4 +301,12 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/pradeepmisal/java-code-practice/tree/master/2998-count-symmetric-integers) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pradeepmisal/java-code-practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pradeepmisal/java-code-practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->

@@ -142,6 +142,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pradeepmisal/java-code-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pradeepmisal/java-code-practice/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/pradeepmisal/java-code-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0812-rotate-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
@@ -271,6 +272,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/pradeepmisal/java-code-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |

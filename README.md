@@ -33,6 +33,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pradeepmisal/java-code-practice/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
@@ -266,6 +267,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0099-recover-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [3643-zero-array-transformation-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3643-zero-array-transformation-ii) |
@@ -279,6 +281,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/pradeepmisal/java-code-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |

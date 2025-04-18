@@ -70,6 +70,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/pradeepmisal/java-code-practice/tree/master/1170-shortest-common-supersequence) |
 ## Greedy
@@ -145,6 +146,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0067-add-binary](https://github.com/pradeepmisal/java-code-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pradeepmisal/java-code-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/pradeepmisal/java-code-practice/tree/master/1170-shortest-common-supersequence) |
@@ -277,6 +279,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/pradeepmisal/java-code-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |

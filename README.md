@@ -52,6 +52,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2292-counting-words-with-a-given-prefix](https://github.com/pradeepmisal/java-code-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pradeepmisal/java-code-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -203,6 +204,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3430-count-days-without-meetings](https://github.com/pradeepmisal/java-code-practice/tree/master/3430-count-days-without-meetings) |
 ## Counting Sort
 |  |
@@ -273,6 +275,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3643-zero-array-transformation-ii) |
 ## Trie
 |  |
@@ -289,6 +292,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String Matching
 |  |
 | ------- |

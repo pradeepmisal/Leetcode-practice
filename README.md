@@ -166,6 +166,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2292-counting-words-with-a-given-prefix](https://github.com/pradeepmisal/java-code-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2580-circular-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/2580-circular-sentence) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pradeepmisal/java-code-practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Counting
 |  |
 | ------- |
@@ -297,6 +298,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pradeepmisal/java-code-practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String Matching
 |  |
 | ------- |

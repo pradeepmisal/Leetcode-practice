@@ -78,6 +78,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/pradeepmisal/java-code-practice/tree/master/1170-shortest-common-supersequence) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pradeepmisal/java-code-practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## String
 |  |
@@ -171,12 +173,14 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2580-circular-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pradeepmisal/java-code-practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -233,6 +237,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2649-count-total-number-of-colored-cells](https://github.com/pradeepmisal/java-code-practice/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/pradeepmisal/java-code-practice/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pradeepmisal/java-code-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3817-maximum-containers-on-a-ship](https://github.com/pradeepmisal/java-code-practice/tree/master/3817-maximum-containers-on-a-ship) |
 ## Randomized

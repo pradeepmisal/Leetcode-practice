@@ -36,6 +36,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1031-add-to-array-form-of-integer](https://github.com/pradeepmisal/java-code-practice/tree/master/1031-add-to-array-form-of-integer) |
@@ -136,6 +137,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/pradeepmisal/java-code-practice/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
@@ -265,6 +267,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0020-valid-parentheses](https://github.com/pradeepmisal/java-code-practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradeepmisal/java-code-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
@@ -373,4 +376,8 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

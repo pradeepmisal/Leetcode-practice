@@ -59,6 +59,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pradeepmisal/java-code-practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/pradeepmisal/java-code-practice/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pradeepmisal/java-code-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3429-special-array-i) |
@@ -227,6 +228,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3321-type-of-triangle](https://github.com/pradeepmisal/java-code-practice/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/pradeepmisal/java-code-practice/tree/master/3430-count-days-without-meetings) |
 ## Counting Sort
 |  |
@@ -247,6 +249,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2649-count-total-number-of-colored-cells](https://github.com/pradeepmisal/java-code-practice/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/pradeepmisal/java-code-practice/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/pradeepmisal/java-code-practice/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pradeepmisal/java-code-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3817-maximum-containers-on-a-ship](https://github.com/pradeepmisal/java-code-practice/tree/master/3817-maximum-containers-on-a-ship) |

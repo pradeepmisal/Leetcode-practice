@@ -29,6 +29,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pradeepmisal/java-code-practice/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/pradeepmisal/java-code-practice/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pradeepmisal/java-code-practice/tree/master/0066-plus-one) |
@@ -130,6 +131,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/pradeepmisal/java-code-practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/pradeepmisal/java-code-practice/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -139,6 +141,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/pradeepmisal/java-code-practice/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/pradeepmisal/java-code-practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/pradeepmisal/java-code-practice/tree/master/0073-set-matrix-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |

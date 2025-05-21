@@ -31,6 +31,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0035-search-insert-position](https://github.com/pradeepmisal/java-code-practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/pradeepmisal/java-code-practice/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/pradeepmisal/java-code-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pradeepmisal/java-code-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/pradeepmisal/java-code-practice/tree/master/0073-set-matrix-zeroes) |
@@ -132,6 +133,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pradeepmisal/java-code-practice/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/pradeepmisal/java-code-practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pradeepmisal/java-code-practice/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
@@ -200,6 +202,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pradeepmisal/java-code-practice/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/pradeepmisal/java-code-practice/tree/master/0067-add-binary) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |

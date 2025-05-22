@@ -104,6 +104,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0094-binary-tree-inorder-traversal](https://github.com/pradeepmisal/java-code-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0099-recover-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradeepmisal/java-code-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -111,6 +112,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradeepmisal/java-code-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -293,6 +295,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0099-recover-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradeepmisal/java-code-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -301,6 +304,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0099-recover-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradeepmisal/java-code-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Backtracking
 |  |
 | ------- |

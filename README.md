@@ -63,6 +63,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pradeepmisal/java-code-practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/pradeepmisal/java-code-practice/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pradeepmisal/java-code-practice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -89,6 +90,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/pradeepmisal/java-code-practice/tree/master/1170-shortest-common-supersequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
 |  |
@@ -99,6 +101,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1917-maximum-average-pass-ratio](https://github.com/pradeepmisal/java-code-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/pradeepmisal/java-code-practice/tree/master/3647-zero-array-transformation-iii) |
 ## Depth-First Search
 |  |
@@ -245,6 +248,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/pradeepmisal/java-code-practice/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/pradeepmisal/java-code-practice/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/pradeepmisal/java-code-practice/tree/master/3647-zero-array-transformation-iii) |
@@ -300,6 +304,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0099-recover-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0099-recover-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pradeepmisal/java-code-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -368,6 +373,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pradeepmisal/java-code-practice/tree/master/0067-add-binary) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3394-minimum-array-end](https://github.com/pradeepmisal/java-code-practice/tree/master/3394-minimum-array-end) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/pradeepmisal/java-code-practice/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Enumeration

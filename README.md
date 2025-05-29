@@ -424,4 +424,8 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0262-trips-and-users](https://github.com/pradeepmisal/java-code-practice/tree/master/0262-trips-and-users) |
 <!---LeetCode Topics End-->

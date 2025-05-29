@@ -116,6 +116,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## Breadth-First Search
 |  |
@@ -125,6 +126,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3809-properties-graph](https://github.com/pradeepmisal/java-code-practice/tree/master/3809-properties-graph) |
 ## Union Find
 |  |
@@ -312,6 +314,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pradeepmisal/java-code-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |

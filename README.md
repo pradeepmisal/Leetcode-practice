@@ -44,6 +44,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/pradeepmisal/java-code-practice/tree/master/0861-flipping-an-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0945-snakes-and-ladders](https://github.com/pradeepmisal/java-code-practice/tree/master/0945-snakes-and-ladders) |
 | [1031-add-to-array-form-of-integer](https://github.com/pradeepmisal/java-code-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
@@ -125,6 +126,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pradeepmisal/java-code-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/pradeepmisal/java-code-practice/tree/master/0945-snakes-and-ladders) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/pradeepmisal/java-code-practice/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -153,6 +155,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0073-set-matrix-zeroes](https://github.com/pradeepmisal/java-code-practice/tree/master/0073-set-matrix-zeroes) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/pradeepmisal/java-code-practice/tree/master/0861-flipping-an-image) |
+| [0945-snakes-and-ladders](https://github.com/pradeepmisal/java-code-practice/tree/master/0945-snakes-and-ladders) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table

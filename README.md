@@ -61,6 +61,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2292-counting-words-with-a-given-prefix](https://github.com/pradeepmisal/java-code-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/pradeepmisal/java-code-practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pradeepmisal/java-code-practice/tree/master/3194-find-words-containing-character) |
@@ -210,6 +211,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2292-counting-words-with-a-given-prefix](https://github.com/pradeepmisal/java-code-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2580-circular-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/pradeepmisal/java-code-practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pradeepmisal/java-code-practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pradeepmisal/java-code-practice/tree/master/3194-find-words-containing-character) |
@@ -382,6 +384,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/pradeepmisal/java-code-practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3643-zero-array-transformation-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/pradeepmisal/java-code-practice/tree/master/3647-zero-array-transformation-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pradeepmisal/java-code-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |

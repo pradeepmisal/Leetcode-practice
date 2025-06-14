@@ -110,6 +110,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1917-maximum-average-pass-ratio](https://github.com/pradeepmisal/java-code-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/pradeepmisal/java-code-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/pradeepmisal/java-code-practice/tree/master/3647-zero-array-transformation-iii) |
@@ -292,6 +293,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pradeepmisal/java-code-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/pradeepmisal/java-code-practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pradeepmisal/java-code-practice/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/pradeepmisal/java-code-practice/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pradeepmisal/java-code-practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3201-distribute-candies-among-children-ii) |

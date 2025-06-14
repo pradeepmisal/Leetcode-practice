@@ -39,6 +39,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0135-candy](https://github.com/pradeepmisal/java-code-practice/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/pradeepmisal/java-code-practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
@@ -370,6 +371,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0125-valid-palindrome](https://github.com/pradeepmisal/java-code-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/pradeepmisal/java-code-practice/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |

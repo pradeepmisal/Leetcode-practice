@@ -50,6 +50,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0945-snakes-and-ladders](https://github.com/pradeepmisal/java-code-practice/tree/master/0945-snakes-and-ladders) |
 | [1031-add-to-array-form-of-integer](https://github.com/pradeepmisal/java-code-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -124,6 +125,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0515-find-largest-value-in-each-tree-row](https://github.com/pradeepmisal/java-code-practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/pradeepmisal/java-code-practice/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/pradeepmisal/java-code-practice/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -209,6 +211,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/pradeepmisal/java-code-practice/tree/master/1170-shortest-common-supersequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pradeepmisal/java-code-practice/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/pradeepmisal/java-code-practice/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pradeepmisal/java-code-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -371,6 +374,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pradeepmisal/java-code-practice/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Two Pointers
 |  |
 | ------- |

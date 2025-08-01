@@ -8,7 +8,6 @@ class Solution {
             for (int j = 0; j < n; j++) {
                 count[grid[i][j]]++;
             }
-
         }
 
         int a = -1, b = -1;
@@ -18,7 +17,6 @@ class Solution {
                 a = num;
             } else if (count[num] == 0) {
                 b = num;
-                
             }
         }
 

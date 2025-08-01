@@ -35,6 +35,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pradeepmisal/java-code-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/pradeepmisal/java-code-practice/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/pradeepmisal/java-code-practice/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -93,6 +94,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0045-jump-game-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pradeepmisal/java-code-practice/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0095-unique-binary-search-trees-ii) |
+| [0118-pascals-triangle](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/pradeepmisal/java-code-practice/tree/master/0494-target-sum) |

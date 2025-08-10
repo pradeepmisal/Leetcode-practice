@@ -181,6 +181,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
+| [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
@@ -234,6 +235,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -276,6 +278,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
+| [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -298,6 +301,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0067-add-binary](https://github.com/pradeepmisal/java-code-practice/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1031-add-to-array-form-of-integer](https://github.com/pradeepmisal/java-code-practice/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/pradeepmisal/java-code-practice/tree/master/1500-count-largest-group) |
@@ -427,6 +431,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [2998-count-symmetric-integers](https://github.com/pradeepmisal/java-code-practice/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |

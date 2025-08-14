@@ -39,6 +39,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/pradeepmisal/java-code-practice/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0283-move-zeroes) |
@@ -178,6 +179,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0012-integer-to-roman](https://github.com/pradeepmisal/java-code-practice/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/pradeepmisal/java-code-practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/pradeepmisal/java-code-practice/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
@@ -276,6 +278,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
 | [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |

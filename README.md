@@ -64,6 +64,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1927-maximum-ascending-subarray-sum](https://github.com/pradeepmisal/java-code-practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pradeepmisal/java-code-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/pradeepmisal/java-code-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -243,6 +244,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
@@ -288,6 +290,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/pradeepmisal/java-code-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |

@@ -58,6 +58,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1677-matrix-diagonal-sum](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [1755-defuse-the-bomb](https://github.com/pradeepmisal/java-code-practice/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/pradeepmisal/java-code-practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/pradeepmisal/java-code-practice/tree/master/1917-maximum-average-pass-ratio) |
@@ -172,6 +173,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0854-making-a-large-island](https://github.com/pradeepmisal/java-code-practice/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/pradeepmisal/java-code-practice/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/pradeepmisal/java-code-practice/tree/master/0945-snakes-and-ladders) |
+| [1677-matrix-diagonal-sum](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table

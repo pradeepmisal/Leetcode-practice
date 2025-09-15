@@ -186,6 +186,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0036-valid-sudoku](https://github.com/pradeepmisal/java-code-practice/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/pradeepmisal/java-code-practice/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
@@ -218,6 +219,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0067-add-binary](https://github.com/pradeepmisal/java-code-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pradeepmisal/java-code-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0812-rotate-string) |
@@ -289,6 +291,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0075-sort-colors](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
 | [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |

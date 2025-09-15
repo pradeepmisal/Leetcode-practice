@@ -117,6 +117,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/pradeepmisal/java-code-practice/tree/master/0135-candy) |
 | [1917-maximum-average-pass-ratio](https://github.com/pradeepmisal/java-code-practice/tree/master/1917-maximum-average-pass-ratio) |
+| [2032-largest-odd-number-in-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/pradeepmisal/java-code-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -229,6 +230,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2032-largest-odd-number-in-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2107-find-unique-binary-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/pradeepmisal/java-code-practice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -317,6 +319,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/pradeepmisal/java-code-practice/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pradeepmisal/java-code-practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2032-largest-odd-number-in-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/pradeepmisal/java-code-practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pradeepmisal/java-code-practice/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |

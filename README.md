@@ -28,6 +28,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/pradeepmisal/java-code-practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/pradeepmisal/java-code-practice/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0045-jump-game-ii) |

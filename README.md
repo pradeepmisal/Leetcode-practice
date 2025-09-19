@@ -189,6 +189,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0242-valid-anagram](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
 | [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -222,6 +223,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0242-valid-anagram](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/pradeepmisal/java-code-practice/tree/master/1170-shortest-common-supersequence) |
@@ -247,6 +249,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/pradeepmisal/java-code-practice/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/pradeepmisal/java-code-practice/tree/master/1364-tuple-with-same-product) |
@@ -272,6 +275,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/pradeepmisal/java-code-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/pradeepmisal/java-code-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -294,6 +298,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0242-valid-anagram](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -497,4 +502,8 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3201-distribute-candies-among-children-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

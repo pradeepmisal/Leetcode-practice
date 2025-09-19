@@ -233,6 +233,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/pradeepmisal/java-code-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/pradeepmisal/java-code-practice/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
@@ -358,6 +359,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0020-valid-parentheses](https://github.com/pradeepmisal/java-code-practice/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pradeepmisal/java-code-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree

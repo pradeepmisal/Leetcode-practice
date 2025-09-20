@@ -500,6 +500,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0262-trips-and-users](https://github.com/pradeepmisal/java-code-practice/tree/master/0262-trips-and-users) |
 | [1179-game-play-analysis-i](https://github.com/pradeepmisal/java-code-practice/tree/master/1179-game-play-analysis-i) |
+| [1908-recyclable-and-low-fat-products](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1908-recyclable-and-low-fat-products) |
 ## Combinatorics
 |  |
 | ------- |

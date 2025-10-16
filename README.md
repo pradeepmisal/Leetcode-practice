@@ -72,6 +72,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/pradeepmisal/java-code-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pradeepmisal/java-code-practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -121,6 +122,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2032-largest-odd-number-in-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/pradeepmisal/java-code-practice/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -203,6 +205,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2107-find-unique-binary-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/pradeepmisal/java-code-practice/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pradeepmisal/java-code-practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pradeepmisal/java-code-practice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -332,6 +335,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2032-largest-odd-number-in-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/pradeepmisal/java-code-practice/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/pradeepmisal/java-code-practice/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/pradeepmisal/java-code-practice/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/pradeepmisal/java-code-practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |

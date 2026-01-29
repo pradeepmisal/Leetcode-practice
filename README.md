@@ -37,6 +37,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0066-plus-one](https://github.com/pradeepmisal/java-code-practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/pradeepmisal/java-code-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/pradeepmisal/java-code-practice/tree/master/0135-candy) |
@@ -298,6 +299,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
@@ -418,6 +420,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pradeepmisal/java-code-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |

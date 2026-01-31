@@ -14,7 +14,7 @@ public class AverageofThree {
         float C= sc.nextFloat();
 
         Float Sum = A + B + C;
-        double Average = (double) Sum / 3; // Use double for average
+        double Average = (double) Sum / 3; // Use double for averag
 
         System.out.println("The average of three no is: " + Average);
     }

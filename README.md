@@ -46,6 +46,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/pradeepmisal/java-code-practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
@@ -191,6 +192,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0217-contains-duplicate](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0451-sort-characters-by-frequency](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/pradeepmisal/java-code-practice/tree/master/0496-next-greater-element-i) |
@@ -304,6 +306,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0242-valid-anagram](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
 | [1256-rank-transform-of-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/1256-rank-transform-of-an-array) |
@@ -405,6 +408,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0099-recover-binary-search-tree](https://github.com/pradeepmisal/java-code-practice/tree/master/0099-recover-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -426,6 +430,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/pradeepmisal/java-code-practice/tree/master/0392-is-subsequence) |
 | [0861-flipping-an-image](https://github.com/pradeepmisal/java-code-practice/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |

@@ -42,6 +42,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/pradeepmisal/java-code-practice/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/pradeepmisal/java-code-practice/tree/master/0274-h-index) |
@@ -330,6 +331,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0012-integer-to-roman](https://github.com/pradeepmisal/java-code-practice/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/pradeepmisal/java-code-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pradeepmisal/java-code-practice/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pradeepmisal/java-code-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0900-reordered-power-of-2) |
@@ -428,6 +430,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0125-valid-palindrome](https://github.com/pradeepmisal/java-code-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pradeepmisal/java-code-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |

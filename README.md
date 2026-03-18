@@ -78,6 +78,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pradeepmisal/java-code-practice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pradeepmisal/java-code-practice/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/pradeepmisal/java-code-practice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -181,6 +182,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0861-flipping-an-image](https://github.com/pradeepmisal/java-code-practice/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/pradeepmisal/java-code-practice/tree/master/0945-snakes-and-ladders) |
 | [1677-matrix-diagonal-sum](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/1677-matrix-diagonal-sum) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/pradeepmisal/java-code-practice/tree/master/3227-find-missing-and-repeated-values) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -458,6 +460,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/pradeepmisal/java-code-practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pradeepmisal/java-code-practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3643-zero-array-transformation-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/pradeepmisal/java-code-practice/tree/master/3647-zero-array-transformation-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pradeepmisal/java-code-practice/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |

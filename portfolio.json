@@ -1,0 +1,34 @@
+{
+  "assets": {
+    "Apple": {
+      "sector": "Technology",
+      "quantity": 50,
+      "initial_price": 175.0
+    },
+    "Microsoft": {
+      "sector": "Technology",
+      "quantity": 30,
+      "initial_price": 380.0
+    },
+    "JPMorgan": {
+      "sector": "Finance",
+      "quantity": 40,
+      "initial_price": 195.0
+    },
+    "Goldman Sachs": {
+      "sector": "Finance",
+      "quantity": 20,
+      "initial_price": 420.0
+    },
+    "ExxonMobil": {
+      "sector": "Energy",
+      "quantity": 60,
+      "initial_price": 105.0
+    },
+    "Pfizer": {
+      "sector": "Healthcare",
+      "quantity": 80,
+      "initial_price": 35.0
+    }
+  }
+}

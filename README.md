@@ -70,6 +70,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [1917-maximum-average-pass-ratio](https://github.com/pradeepmisal/java-code-practice/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/pradeepmisal/java-code-practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2107-find-unique-binary-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/pradeepmisal/java-code-practice/tree/master/2280-count-good-triplets-in-an-array) |
@@ -275,6 +276,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0067-add-binary](https://github.com/pradeepmisal/java-code-practice/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/pradeepmisal/java-code-practice/tree/master/0861-flipping-an-image) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/pradeepmisal/java-code-practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/pradeepmisal/java-code-practice/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/pradeepmisal/java-code-practice/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -446,6 +448,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [0922-sort-array-by-parity-ii](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/pradeepmisal/java-code-practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pradeepmisal/java-code-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/pradeepmisal/java-code-practice/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pradeepmisal/java-code-practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |

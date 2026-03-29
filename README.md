@@ -254,6 +254,7 @@ git clone https://github.com/pradeepmisal/java-code-practice.git
 | [2456-construct-smallest-number-from-di-string](https://github.com/pradeepmisal/java-code-practice/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2580-circular-sentence](https://github.com/pradeepmisal/java-code-practice/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/pradeepmisal/java-code-practice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/pradeepmisal/DSA-Leetcode-practice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/pradeepmisal/java-code-practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pradeepmisal/java-code-practice/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/pradeepmisal/java-code-practice/tree/master/3194-find-words-containing-character) |
